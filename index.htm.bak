@@ -1,125 +1,155 @@
 <!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>我的网站</title>
-</head>
-<body>
-<!--注释当前分支-->
-<p>当前分支是： 主分支</p>
-<hr><!--添加水平线-->
-
-<!--网页内容的标题（1级标题）-->
-<div id="container" style="">
-<div id="header" style="background-color:#FFA500;text-align:center;">
-<h1 style="margin-bottom:0;">我的网站建设学习笔记</h1>
-</div>
-
-<!--网页内容的目录-->
-<div id="menu" style="background-color:#FFD700;height:400px;float:left;">
-<b>菜单</b><br>
-<details>
-<summary>网址和域名</summary>
-<p><a href="a2.htm">网址</a></p>
-<p><a href="a2.htm">域名</a></p>
-</details>
-<details>
-<summary>GitHub的使用</summary>
-<p><a href="a2.htm">注册</a></p>
-<p><a href="a2.htm">桌面端的使用</a></p>
-</details>
-</div>
-
-<div id="menu" style="background-color:#FFD700;height:300px;float:left;">
-<b>软件下载</b><br>
-<details>
-<summary>网址和域名</summary>
-<p><a href="a2.htm">网址</a></p>
-<p><a href="a2.htm">域名</a></p>
-</details>
-<details>
-<summary>GitHub的使用</summary>
-<p><a href="a2.htm">注册</a></p>
-<p><a href="a2.htm">桌面端的使用</a></p>
-</details>
-</div>
-
-
-
-<div id="content" style="height:200px;width:400px;float:left;">
-内容在这里
-</div>
-
-
-
-
-<div  id="content" style="background-color:#FFD700;">
-<p>这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支0123458</p></div><p>
-这是标题 2    不知道那个分支这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支这是标题 2    不知道那个分支.这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。这是标题 2    不知道那个分支。
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支
-这是标题 2    不知道那个分支</h1>
-<img src="pics\图片4.png"  />
-
-<img src="C:\Users\asd\OneDrive\2018-2019-1课表.png"  />
-
-
+<!-- saved from url=(0043)http://www.runoob.com/html/html-blocks.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	
-	
-<div id="content" style="background-color:#EEEEEE;height:200px;width:400px;float:left;">
-内容在这里</div>
+  <meta property="qc:admins" content="465267610762567726375">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>网站建设学习记录</title>
 
-<div id="footer" style="background-color:#FFA500;clear:both;text-align:center;">
-版权 © runoob.com</div>
+  <!--link rel="dns-prefetch" href="http://s.w.org/">
+<link rel="canonical" href="http://www.runoob.com/html/html-blocks.html">
+<meta name="keywords" content="HTML 区块"-->
+<meta name="description" content="HTML &amp;lt;div&amp;gt; 和&amp;lt;span&amp;gt;  HTML 可以通过 &amp;lt;div&amp;gt; 和 &amp;lt;span&amp;gt;将元素组合起来。 HTML 区块元素 大多数 HTML 元素被定义为块级元素或内联元素。 块级元素在浏览器显示时，通常会以新行来开始（和结束）。 实例: &amp;lt;h1&amp;gt;, &amp;lt;p&amp;gt;, &amp;..">
+		
+	<link rel="shortcut icon" href="http://static.runoob.com/images/favicon.ico" mce_href="//static.runoob.com/images/favicon.ico" type="image/x-icon">
+	<link rel="stylesheet" href="./HTML 区块 _ 菜鸟教程_files/style.css" type="text/css" media="all">	
+	<link rel="stylesheet" href="./HTML 区块 _ 菜鸟教程_files/font-awesome.min.css" media="all">	
+  <!--[if gte IE 9]><!-->
+  <script type="text/javascript" async="" src="./HTML 区块 _ 菜鸟教程_files/analytics.js"></script><script src="./HTML 区块 _ 菜鸟教程_files/hm.js"></script><script src="./HTML 区块 _ 菜鸟教程_files/jquery.min.js"></script>
+  <!--<![endif]-->
+  <!--[if lt IE 9]>
+     <script src="//cdn.staticfile.org/jquery/1.9.1/jquery.min.js"></script>
+     <script src="//cdn.staticfile.org/html5shiv/r29/html5.min.js"></script>
+  <![endif]-->
+  <link rel="apple-touch-icon" href="http://static.runoob.com/images/icon/mobile-icon.png">
+  <meta name="apple-mobile-web-app-title" content="菜鸟教程">
+<link rel="stylesheet" type="text/css" href="./HTML 区块 _ 菜鸟教程_files/prettify.css"></head>
+<body style="">
 
+<!--  头部 -->
+
+
+<div id="header" style="background-color:#FFA500;">
+<h1 style="margin-bottom:0;">主要的网页标题</h1></div>
+<!-- 导航栏 -->
+<!-- 导航栏 -->
+<div class="container navigation">
+	<div class="row">
+		<div class="col nav">
+			<ul class="pc-nav">
+				<li><a href="http://www.runoob.com/css/css-tutorial.html">首页</a></li>
+				<li><a href="http://www.runoob.com/">建设网站</a></li>
+				<li><a href="http://www.runoob.com/html/html-tutorial.html">软件下载</a></li>
+				<li><a href="http://www.runoob.com/css/css-tutorial.html">CSS</a></li>
+				<li><a href="http://www.runoob.com/js/js-tutorial.html">JavaScript</a></li>
+				<li><a href="http://www.runoob.com/jquery/jquery-tutorial.html">jQuery</a></li>
+				<li><a href="http://www.runoob.com/bootstrap/bootstrap-tutorial.html">Bootstrap</a></li>
+				<li><a href="http://www.runoob.com/sql/sql-tutorial.html">SQL</a></li>
+				<li><a href="http://www.runoob.com/mysql/mysql-tutorial.html">MySQL</a></li>
+
+				<li><a href="http://www.runoob.com/java/java-tutorial.html">Java</a></li>
+				<li><a href="http://www.runoob.com/browser-history">本地书签</a></li>
+      		</ul>
+			<!--ul class="mobile-nav">
+				<li><a href="http://www.runoob.com/">首页</a></li>
+				<li><a href="http://www.runoob.com/html/html-tutorial.html">HTML</a></li>
+				<li><a href="http://www.runoob.com/css/css-tutorial.html">CSS</a></li>
+				<li><a href="http://www.runoob.com/js/js-tutorial.html">JS</a></li>
+				<li><a href="http://www.runoob.com/browser-history">本地书签</a></li>
+				<a href="javascript:void(0)" class="search-reveal">Search</a> 
+			</ul-->
+			
+		</div>
+	</div>
 </div>
- 
-</body>
-</html>
+
+<!--  内容  -->
+<div class="container main">
+	<!-- 中间 -->
+	<div class="row">
+		<div class="col left-column">
+			<div class="tab">HTML 教程</div>
+			<div class="sidebar-box gallery-list">
+				<div class="design" id="leftcolumn">
+				<a target="_top" title="HTML 教程" href="http://www.runoob.com/html/html-tutorial.html">HTML 教程</a>
+				<a target="_top" title="HTML CSS" href="http://www.runoob.com/html/html-css.html">HTML CSS</a>
+				<a target="_top" title="HTML 图像" href="http://www.runoob.com/html/html-images.html">HTML 图像	</a>
+				<a target="_top" title="HTML 表格" href="http://www.runoob.com/html/html-tables.html">HTML 表格</a>
+				<a target="_top" title="HTML5 拖放" href="http://www.runoob.com/html/html5-draganddrop.html">HTML5 拖放			</a>
+				<a target="_top" title="HTML5 地理定位" href="http://www.runoob.com/html/html5-geolocation.html">			HTML5 地理定位			</a>
+				<a target="_top" title="HTML5 Web SQL" href="http://www.runoob.com/html/html5-web-sql.html"> HTML5 Web SQL </a>		
+				<a target="_top" title="HTML5 WebSocket" href="http://www.runoob.com/html/html5-websocket.html"> HTML5 WebSocket </a>
+				<a target="_top" title="HTML5 测验" href="http://www.runoob.com/quiz/html5-quiz.html" se_prerender_url="complete"> HTML5 测验 </a>
+				<a target="_top" title="HTML(5) 代码规范" href="http://www.runoob.com/html/html5-syntax.html">HTML(5) 代码规范 </a>
+				<br>
+				<h2 class="left"><span class="left_h2">HTML</span> 媒体</h2>			
+				<a target="_top" title="HTML 媒体(Media)" href="http://www.runoob.com/html/html-media.html">HTML 媒体(Media)</a>
+				<a target="_top" title="HTML 插件" href="http://www.runoob.com/html/html-object.html">HTML 插件</a>
+				<a target="_top" title="HTML 音频(Audio)" href="http://www.runoob.com/html/html-sounds.html">HTML 音频(Audio)			</a>
+				<a target="_top" title="HTML视频（Videos）播放" href="http://www.runoob.com/html/html-videos.html">HTML视频（Videos）播放			</a>
+				<a target="_top" title="HTML 实例" href="http://www.runoob.com/html/html-examples.html">HTML 实例			</a>
+				<br>
+				<h2 class="left"><span class="left_h2">HTML</span> 参考手册</h2>
+				<a target="_top" href="http://www.runoob.com/tags/ref-standardattributes.html">HTML 属性	</a>
+				<a target="_top" href="http://www.runoob.com/tags/ref-eventattributes.html">HTML 事件	</a>
+				<a target="_top" href="http://www.runoob.com/tags/ref-canvas.html">	HTML 画布	</a>
+				<a target="_top" href="http://www.runoob.com/tags/ref-av-dom.html">HTML 音频/视频	</a>
+				</div>
+			</div>	
+		</div>	
+		<div class="col middle-column">
+			<div class="article">
+				<div class="article-body">
+					<div class="article-intro" id="content" >
+						<h1>HTML <span class="color_h1">&lt;div&gt; 和&lt;span&gt;</span></h1>
+						<hr><p class="intro">HTML 可以通过 &lt;div&gt; 和 &lt;span&gt;将元素组合起来。</p>
+						<hr><h2>HTML 区块元素</h2>
+						<p>大多数 HTML 元素被定义为<strong>块级元素</strong>或<strong>内联元素</strong>。</p>
+						<p>块级元素在浏览器显示时，通常会以新行来开始（和结束）。</p>
+						<p>实例: &lt;h1&gt;, &lt;p&gt;, &lt;ul&gt;, &lt;table&gt; </p>
+						<hr><h2>HTML 内联元素</h2>
+						<p>内联元素在显示时通常不会以新行开始。</p>
+						<p>实例: &lt;b&gt;, &lt;td&gt;, &lt;a&gt;, &lt;img&gt;</p>
+						<hr><h2>HTML &lt;div&gt; 元素</h2>
+						<p>HTML &lt;div&gt; 元素是块级元素，它可用于组合其他 HTML 元素的容器。</p>
+						<p> &lt;div&gt; 元素没有特定的含义。除此之外，由于它属于块级元素，浏览器会在其前后显示折行。</p>
+						<p>如果与 CSS 一同使用，&lt;div&gt; 元素可用于对大的内容块设置样式属性。</p>
+						<p>&lt;div&gt; 元素的另一个常见的用途是文档布局。它取代了使用表格定义布局的老式方法。使用 &lt;table&gt; 元素进行文档布局不是表格的正确用法。&lt;table&gt; 元素的作用是显示表格化的数据。</p>
+						<hr><h2>HTML &lt;span&gt; 元素</h2>
+						<p>HTML &lt;span&gt; 元素是内联元素，可用作文本的容器</p>
+						<p>&lt;span&gt; 元素也没有特定的含义。 </p>
+						<p>当与 CSS 一同使用时，&lt;span&gt; 元素可用于为部分文本设置样式属性。</p>
+						<hr><h2>HTML 分组标签</h2>
+
+						<table class="reference notranslate">
+							<tbody>
+							<tr>
+							<th align="left">标签</th>
+							<th align="left">描述</th>
+							</tr>
+							<tr>
+							<td><a href="http://www.runoob.com/tags/tag-div.html">&lt;div&gt;</a></td>
+							<td>定义了文档的区域，块级 (block-level)</td>
+							</tr>
+							<tr>
+							<td><a href="http://www.runoob.com/tags/tag-span.html">&lt;span&gt;</a></td>
+							<td>用来组合文档中的行内元素， 内联元素(inline)</td>
+							</tr>
+							</tbody>
+						</table>			
+			
+					</div>			
+				</div>
+			</div>
+		</div>
+	</div>
+</div>  
+
+<details>
+<summary>Copyright 1999-2011.</summary>
+<p> - by Refsnes Data. All Rights Reserved.</p>
+<p>All content and graphics on this web site are the property of the company Refsnes Data.</p>
+</details>
+
+
+</body></html>
