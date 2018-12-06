@@ -24,9 +24,9 @@
 	<div class="row">
 		<div class="col nav">
 			<ul class="pc-nav">
-				<li><a href="http://www.runoob.com/css/css-tutorial.html">首页</a></li>
+				<li><a href="首页.html">首页</a></li>
 				<li><a href="http://www.runoob.com/">建设网站</a></li>
-				<li><a href="http://www.runoob.com/html/html-tutorial.html">VB.net</a></li>
+				<li><a href="http://www.runoob.com/html/html-tutorial.html">VBnet</a></li>
 				<li><a href="python.html">python</a></li>
 				<li><a href="软件下载.html">软件下载</a></li>
       		</ul>
