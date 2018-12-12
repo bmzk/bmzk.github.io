@@ -24,11 +24,9 @@
 	<div class="row">
 		<div class="col nav">
 			<ul class="pc-nav">
-				<li><a href="首页.htm">首页</a></li>
-				<li><a href="建设网站.htm">建设网站</a></li>
-				<li><a href="vb.net.htm">VB.net</a></li>
-				<li><a href="python.htm">python</a></li>
-				<li><a href="软件下载.htm">软件下载</a></li>
+				<li><a href="http://www.runoob.com/css/css-tutorial.html">首页</a></li>
+				<li><a href="http://www.runoob.com/">建设网站</a></li>
+				<li><a href="http://www.runoob.com/html/html-tutorial.html">软件下载</a></li>
       		</ul>
 			<ul class="mobile-nav">
 				<li><a href="http://www.runoob.com/">首页</a></li>
@@ -56,6 +54,13 @@
 				<a target="_top" title="HTML5 WebSocket" href="http://www.runoob.com/html/html5-websocket.html"> HTML5 WebSocket </a>
 				<a target="_top" title="HTML5 测验" href="http://www.runoob.com/quiz/html5-quiz.html" se_prerender_url="complete"> HTML5 测验 </a>
 				<a target="_top" title="HTML(5) 代码规范" href="http://www.runoob.com/html/html5-syntax.html">HTML(5) 代码规范 </a>
+				<br>
+				<h2 class="left"><span class="left_h2">VB.net</span> WPF教程</h2>			
+				<a target="_top" title="HTML" href="http://www.runoob.com/html/html-media.html">HTML 媒体(Media)</a>
+				<a target="_top" title="HTML 插件" href="http://www.runoob.com/html/html-object.html">HTML 插件</a>
+				<a target="_top" title="HTML 音频(Audio)" href="http://www.runoob.com/html/html-sounds.html">HTML 音频(Audio)			</a>
+				<a target="_top" title="HTML视频（Videos）播放" href="http://www.runoob.com/html/html-videos.html">HTML视频（Videos）播放			</a>
+				<a target="_top" title="HTML 实例" href="http://www.runoob.com/html/html-examples.html">HTML 实例			</a>
 				<br>
 				<h2 class="left"><span class="left_h2">HTML</span> 媒体</h2>			
 				<a target="_top" title="HTML 媒体(Media)" href="http://www.runoob.com/html/html-media.html">HTML 媒体(Media)</a>
