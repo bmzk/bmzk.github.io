@@ -1,0 +1,95 @@
+﻿<!DOCTYPE HTML>
+<html>
+   <head>
+      <meta charset="UTF-8">  
+      <p id="p1">yigeduanluo </p>
+	   <title>菜鸟教程(runoob.com)</title> 
+      <script type="text/javascript">
+         //document.write(Date());	
+         var db = openDatabase('mydb', '1.0', 'Test DB', 2 * 1024 * 1024);
+         var msg;
+		 var n=1;
+function f0(){	
+   document.getElementById("p1").innerHTML=n;	
+   n=n+1; };
+		 
+ function f1(){        
+         db.transaction(function (tx) {
+            tx.executeSql('CREATE TABLE IF NOT EXISTS LOGS (id unique, log)');
+            tx.executeSql('INSERT INTO LOGS (id, log) VALUES (1, "菜鸟教程")');
+            tx.executeSql('INSERT INTO LOGS (id, log) VALUES (2, "www.runoob.com")');
+            msg = '<p>数据表已创建，且插入了两条数据。</p>';
+            document.querySelector('#status').innerHTML =  msg;
+         })};
+function f2(){
+         db.transaction(function (tx) {
+              tx.executeSql('DELETE FROM LOGS  WHERE id=1');
+              msg = '<p>删除 id 为 1 的记录。</p>';
+              document.querySelector('#status').innerHTML =  msg;
+         })};
+function f3(){
+         db.transaction(function (tx) {
+             tx.executeSql('UPDATE LOGS SET log=\'runoob.com\' WHERE id=2');
+              msg = '<p>更新 id 为 2 的记录。</p>';
+              document.querySelector('#status').innerHTML =  msg;
+         })};
+function f4(){
+         db.transaction(function (tx) {
+            tx.executeSql('SELECT * FROM LOGS', [], function (tx, results) {
+               var len = results.rows.length, i;
+               msg = "<p>查询记录条数: " + len + "</p>";
+               document.querySelector('#status').innerHTML +=  msg;
+               
+               for (i = 0; i < len; i++){
+                  msg = "<p><b>" + results.rows.item(i).log + "</b></p>";
+                  document.querySelector('#status').innerHTML +=  msg;
+               }
+            }, null);
+         });
+         };
+		 
+
+function f5(){		 
+         db.transaction(function (tx) {		
+            n=n+1; 
+            //tx.executeSql('INSERT INTO LOGS (id, log) VALUES (n, "菜鸟教程")');
+            tx.executeSql('INSERT INTO LOGS (id,log) VALUES (?, ?)', [n, n]);
+            msg = '<p>n+数据表已创建，且插入了两条数据。</p>';
+            document.querySelector('#status').innerHTML =  msg;
+            })};
+		 
+		 
+</script>
+	  
+	  
+	  
+<button type="button" onclick="f0()">点击+n</button>		
+<button type="button" onclick="f1()">创建数据库,插入数据</button>	
+<button type="button" onclick="f2()">删除 id 为 1 的记录</button>
+<button type="button" onclick="f3()">更新 id 为 2 的记录</button>
+<button type="button" onclick="f4()">查询记录条数</button>
+<button type="button" onclick="f5()">插入数据</button>
+<button type="button" onclick="f5()">查询记录条数</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+   </head>
+   
+   <body>
+      <div id="status" name="status">状态信息</div>
+	 
+   </body>
+   
+</html>
